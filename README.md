@@ -1,5 +1,6 @@
 Peeper - Thin events' recorder library
 ======================================
+[![Build Status](https://travis-ci.org/javidgon/peeper.png)](https://travis-ci.org/javidgon/peeper)
 
 In a nutshell
 -------------

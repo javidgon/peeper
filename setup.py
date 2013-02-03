@@ -20,5 +20,6 @@ setup(
     zip_safe=False,
     packages=['peeper', 'peeper.services'],
     install_requires=read('requirements.pip'),
-    long_description=read('README.md')
+    long_description=read('README.md'),
+    test_suite='peeper.run_test'
 )
