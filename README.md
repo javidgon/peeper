@@ -26,3 +26,4 @@ Contributing
 
 If you'd like to contribute, just Fork the repository, create a branch with
 your changes and send a pull request. Don't forget appending your name to AUTHORS ;)
+
